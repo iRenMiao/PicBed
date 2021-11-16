@@ -1,1 +1,1 @@
-# picBed
+# PicBed
